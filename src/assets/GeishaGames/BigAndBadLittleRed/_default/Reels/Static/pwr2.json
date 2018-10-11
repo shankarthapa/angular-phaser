@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "hotdog",
+	"frame": {"x":2,"y":2,"w":199,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":199},
+	"sourceSize": {"w":214,"h":203},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Ace.png",
+	"format": "RGBA8888",
+	"size": {"w":214,"h":203},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:26005efdde2257dc1da80603575d19b1:ba267b884e03a85f95b47919b357e38e:02eb42adf84173cf2beb5a186332d1c6$"
+}
+}

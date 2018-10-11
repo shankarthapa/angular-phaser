@@ -1,0 +1,131 @@
+{
+    "frames":
+    {
+        "0":
+        {
+            "frame": {"x":1,"y":1,"w":75,"h":66},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":7,"w":75,"h":66 },
+            "sourceSize": {"w":75,"h":66},
+            "texture":"summaryNumbers.png"
+        },
+        ",":
+        {
+            "frame": {"x":78,"y":1,"w":34,"h":36},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":23,"y":44,"w":34,"h":36 },
+            "sourceSize": {"w":34,"h":36},
+            "texture":"summaryNumbers.png"
+        },
+        ".":
+        {
+            "frame": {"x":78,"y":39,"w":34,"h":27},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":23,"y":45,"w":34,"h":27 },
+            "sourceSize": {"w":34,"h":27},
+            "texture":"summaryNumbers.png"
+        },
+        "8":
+        {
+            "frame": {"x":1,"y":69,"w":64,"h":66},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":8,"y":7,"w":64,"h":66 },
+            "sourceSize": {"w":64,"h":66},
+            "texture":"summaryNumbers.png"
+        },
+        "1":
+        {
+            "frame": {"x":67,"y":69,"w":52,"h":66},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":16,"y":7,"w":52,"h":66 },
+            "sourceSize": {"w":52,"h":66},
+            "texture":"summaryNumbers.png"
+        },
+        "$":
+        {
+            "frame": {"x":1,"y":137,"w":62,"h":72},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":10,"y":3,"w":62,"h":72 },
+            "sourceSize": {"w":62,"h":72},
+            "texture":"summaryNumbers.png"
+        },
+        "3":
+        {
+            "frame": {"x":65,"y":137,"w":55,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":12,"y":7,"w":55,"h":64 },
+            "sourceSize": {"w":55,"h":64},
+            "texture":"summaryNumbers.png"
+        },
+        "2":
+        {
+            "frame": {"x":65,"y":203,"w":51,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":15,"y":9,"w":51,"h":64 },
+            "sourceSize": {"w":51,"h":64},
+            "texture":"summaryNumbers.png"
+        },
+        "4":
+        {
+            "frame": {"x":1,"y":211,"w":60,"h":65},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":8,"y":7,"w":60,"h":65 },
+            "sourceSize": {"w":60,"h":65},
+            "texture":"summaryNumbers.png"
+        },
+        "7":
+        {
+            "frame": {"x":63,"y":269,"w":57,"h":68},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":11,"y":5,"w":57,"h":68 },
+            "sourceSize": {"w":57,"h":68},
+            "texture":"summaryNumbers.png"
+        },
+        "6":
+        {
+            "frame": {"x":1,"y":278,"w":60,"h":65},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":10,"y":7,"w":60,"h":65 },
+            "sourceSize": {"w":60,"h":65},
+            "texture":"summaryNumbers.png"
+        },
+        "9":
+        {
+            "frame": {"x":1,"y":345,"w":60,"h":65},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":10,"y":7,"w":60,"h":65 },
+            "sourceSize": {"w":60,"h":65},
+            "texture":"summaryNumbers.png"
+        },
+        "5":
+        {
+            "frame": {"x":63,"y":339,"w":56,"h":66},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":12,"y":5,"w":56,"h":66 },
+            "sourceSize": {"w":56,"h":66},
+            "texture":"summaryNumbers.png"
+        }
+        
+    },
+    
+    "meta": 
+    {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "SpriteAnimation atlas",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:4186fa9e13239723d60640dd1aa638c7:c35f53a825c63dcbd9882ce8d6d6c5c8:8a3165083e85eabd3d32336c1a13fd15$"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "frames":
+    {
+        "0":
+        {
+            "frame": {"x":2,"y":2,"w":62,"h":82},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":62,"h":82 },
+            "sourceSize": {"w":62,"h":82},
+            "texture":"winlineNumbers.png"
+        },
+        "3":
+        {
+            "frame": {"x":66,"y":2,"w":60,"h":82},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":60,"h":82 },
+            "sourceSize": {"w":60,"h":82},
+            "texture":"winlineNumbers.png"
+        },
+        "6":
+        {
+            "frame": {"x":2,"y":86,"w":62,"h":82},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":62,"h":82 },
+            "sourceSize": {"w":62,"h":82},
+            "texture":"winlineNumbers.png"
+        },
+        "5":
+        {
+            "frame": {"x":66,"y":86,"w":60,"h":81},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":3,"w":60,"h":81 },
+            "sourceSize": {"w":60,"h":81},
+            "texture":"winlineNumbers.png"
+        },
+        "2":
+        {
+            "frame": {"x":66,"y":169,"w":60,"h":80},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":60,"h":80 },
+            "sourceSize": {"w":60,"h":80},
+            "texture":"winlineNumbers.png"
+        },
+        "8":
+        {
+            "frame": {"x":2,"y":170,"w":62,"h":82},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":62,"h":82 },
+            "sourceSize": {"w":62,"h":82},
+            "texture":"winlineNumbers.png"
+        },
+        "7":
+        {
+            "frame": {"x":66,"y":251,"w":60,"h":79},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":3,"y":3,"w":60,"h":79 },
+            "sourceSize": {"w":60,"h":79},
+            "texture":"winlineNumbers.png"
+        },
+        "9":
+        {
+            "frame": {"x":2,"y":254,"w":62,"h":82},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":2,"w":62,"h":82 },
+            "sourceSize": {"w":62,"h":82},
+            "texture":"winlineNumbers.png"
+        },
+        "1":
+        {
+            "frame": {"x":66,"y":332,"w":48,"h":80},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":5,"y":2,"w":48,"h":80 },
+            "sourceSize": {"w":48,"h":80},
+            "texture":"winlineNumbers.png"
+        },
+        "4":
+        {
+            "frame": {"x":2,"y":338,"w":62,"h":79},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":2,"y":3,"w":62,"h":79 },
+            "sourceSize": {"w":62,"h":79},
+            "texture":"winlineNumbers.png"
+        },
+        ",":
+        {
+            "frame": {"x":66,"y":414,"w":34,"h":47},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":3,"y":43,"w":34,"h":47 },
+            "sourceSize": {"w":34,"h":47},
+            "texture":"winlineNumbers.png"
+        }
+        
+    },
+    
+    "meta": 
+    {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "SpriteAnimation atlas",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:d1081aadc72a69b4757d4c2d11d85968:38a8d08539ee4b4427836b04aaca01ad:4c89aa03850d0aaedeb9870c83beb45a$"
+    }
+}
